@@ -5,13 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/pp3.unity
-    guid: d63e722e393be47e0b128a98918c728c
-  - enabled: 0
-    path: Assets/Practica3_Maria_Soriano.unity
-    guid: 7fa88a525e79c4561bb01506109dc086
   - enabled: 1
-    path: Assets/Practica5_Maria_Soriano.unity
-    guid: 0169c5879a1c74cf39ed65b5c6a4e472
+    path: Assets/Scenes/AR_Campus_FI_Main.unity
+    guid: ae31de2ee848049efaf881c70789dad6
+  - enabled: 1
+    path: Assets/Scenes/AR_Escanear_Sur.unity
+    guid: 7c9f4562fe96745f39bf0580523e128b
+  - enabled: 1
+    path: Assets/Scenes/AR_Escanear_Norte.unity
+    guid: 5c2e06804557d4dea9dd8b7030195b95
+  - enabled: 1
+    path: Assets/Scenes/AR_Finalizar_Recorrido.unity
+    guid: dbebc8ea729d54b8a8c0d05f2d0022b6
   m_configObjects: {}
